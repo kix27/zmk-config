@@ -1,0 +1,15 @@
+include:
+  - board: seeeduino_xiao_ble
+    shield: xiaord mona2_dongle
+    artifact-name: mona2_dongle
+
+  - board: seeeduino_xiao_ble
+    shield: moNa_L
+    artifact-name: mona2_left
+
+  - board: seeeduino_xiao_ble
+    shield: moNa_R
+    artifact-name: mona2_right
+
+  - board: seeeduino_xiao_ble
+    shield: settings_reset
