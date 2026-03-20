@@ -1,9 +1,3 @@
-#include "moNa.dtsi"
-
-&kscan0 {
-    status = "disabled";
-};
-
 / {
     chosen {
         zmk,kscan = &xiaord_mock_kscan;
