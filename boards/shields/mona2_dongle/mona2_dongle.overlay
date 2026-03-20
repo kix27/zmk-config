@@ -1,3 +1,5 @@
+#include "moNa.dtsi"
+
 &kscan0 {
     status = "disabled";
 };
